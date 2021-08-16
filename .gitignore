@@ -9,6 +9,7 @@ wp-content/*
 !wp-content/mu-plugins/
 !wp-content/plugins/
 !wp-content/themes/
+!wp-content/uploads/
 
 
 # Ignore everything in the "plugins" directory, except the plugins you specify
@@ -19,10 +20,3 @@ wp-content/*
 # Ignore everything in the "themes" directory, except the themes you specify
 wp-content/themes/*
 !wp-content/themes/twentytwentyonechild/
-
-
-wp-config.php
-wp-content/ai1wm-backups/
-wp-content/wflogs/
-.htaccess
-.htpasswd
